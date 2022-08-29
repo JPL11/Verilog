@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Jul 18 15:54:05 2022
+# Process ID: 25408
+# Current directory: C:/Users/Jacky/Downloads/ECE_2300_Lab13/ECE_2300_Lab13.runs/synth_1
+# Command line: vivado.exe -log counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source counter.tcl
+# Log file: C:/Users/Jacky/Downloads/ECE_2300_Lab13/ECE_2300_Lab13.runs/synth_1/counter.vds
+# Journal file: C:/Users/Jacky/Downloads/ECE_2300_Lab13/ECE_2300_Lab13.runs/synth_1\vivado.jou
+# Running On: DESKTOP-BLKJUKI, OS: Windows, CPU Frequency: 2208 MHz, CPU Physical cores: 6, Host memory: 16901 MB
+#-----------------------------------------------------------
+source counter.tcl -notrace

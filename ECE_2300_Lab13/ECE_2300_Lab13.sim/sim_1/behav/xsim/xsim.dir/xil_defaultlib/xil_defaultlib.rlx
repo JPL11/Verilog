@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/Jacky/Downloads/ECE_2300_Lab13/ECE_2300_Lab13.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+C:/Users/Jacky/Downloads/ECE_2300_Lab13/ECE_2300_Lab13.srcs/sim_1/new/counter_testbench.v,1651639337,verilog,,,,counter_testbench,,,,,,,,
+C:/Users/Jacky/Downloads/ECE_2300_Lab13/ECE_2300_Lab13.srcs/sources_1/new/TFF.v,1651639337,verilog,,C:/Users/Jacky/Downloads/ECE_2300_Lab13/ECE_2300_Lab13.srcs/sources_1/new/counter.v,,TFF,,,,,,,,
+C:/Users/Jacky/Downloads/ECE_2300_Lab13/ECE_2300_Lab13.srcs/sources_1/new/counter.v,1651639337,verilog,,C:/Users/Jacky/Downloads/ECE_2300_Lab13/ECE_2300_Lab13.srcs/sim_1/new/counter_testbench.v,,counter,,,,,,,,
